@@ -1,0 +1,23 @@
+.heading{
+    font-size:25px;
+    width:100%;
+    margin:0px;
+}
+#start,#numberofobjects{
+    font-size:20px;
+}
+.footer{
+    position:fixed;
+    color:white;
+    bottom:0;
+    width:100%;
+    background-color:orangered;
+    line-height:2;
+    text-align:center;
+}
+canvas{
+    border:2px solid cyan;
+    border-radius:10px;
+    margin-top:150px;
+    box-shadow:5px 5px 5px chartreuse;
+}
